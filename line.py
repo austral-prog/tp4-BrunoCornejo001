@@ -25,3 +25,4 @@ def line():
     distancia = ((float(X2) - float(X1))**2 + (y2 - y1)**2)**0.5
 
     print("La distancia entre ellos es:", distancia)
+line()
